@@ -1,6 +1,7 @@
 ## Introduction to Git and Github with SheCodeAfrica
 
-### Contributors 
+### Contributors
 
-[X] Essi Akpevwe Praise 
+[X] Essi Akpevwe Praise
 
+[X] Bisola Odusanwo Blessing
