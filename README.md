@@ -4,4 +4,4 @@
 
 [X] Essi Akpevwe Praise
 
-[X] Bisola Odusanwo Blessing
+[X] Bisola Odusanwo
